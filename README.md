@@ -1,2 +1,2 @@
-COURIER_MANAGEMENT: A Salesforce application that tracks courier bookings, shipment status, delivery agents, and customer details. It includes custom objects, automated status updates, tracking dashboards, and a user-friendly interface for managing end-to-end delivery operations.# COURIER-MANAGEMENT-SYSTEM
-demo link:https://drive.google.com/file/d/1KgK12YV-R5lyp2WhAHYbTQAy2ixHUUnU/view?usp=sharing
+COURIER_MANAGEMENT: A Salesforce application that tracks courier bookings, shipment status, delivery agents, and customer details. It includes custom objects, automated status updates, tracking dashboards, and a user-friendly interface for managing end-to-end delivery operations..# COURIER-MANAGEMENT-SYSTEM
+[ view demo link] (https://drive.google.com/file/d/1KgK12YV-R5lyp2WhAHYbTQAy2ixHUUnU/view?usp=sharing)
